@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<technical-users>
+    <user id="reader">
+        <privateKey>ABC</privateKey>
+    </user>
+    <user id="writer">
+        <privateKey>123</privateKey>
+    </user>
+</technical-users>
